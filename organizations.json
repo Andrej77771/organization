@@ -1,0 +1,26 @@
+{
+    "organizations":[
+        {
+            "name":"Tesla",
+            "position":"Latvia",
+            "id":"123", 
+            "contacts" : [
+                {
+                    "name":"D\u017eons",
+                    "position":"sekret\u0101rs",
+                    "id":"1"  
+
+      
+                },
+                {
+                    "name":"Anna",
+                    "position":"Directors",
+                    "id":"2"  
+      }
+      
+
+    ] 
+}     
+
+]
+}
